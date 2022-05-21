@@ -29,3 +29,27 @@ while i<=10:
         pass
     print(i)
     i=i+1
+
+
+
+
+#mathematics
+
+#1
+
+
+import math
+
+print (math.ceil(10.2))
+
+
+#2
+
+import math
+
+n = 2.5
+
+print(str(math.ceil(n)))
+
+
+
