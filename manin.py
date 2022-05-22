@@ -51,5 +51,10 @@ n = 2.5
 
 print(str(math.ceil(n)))
 
+#functions
+def display(str):
+    print("hello", str , "welcome to python")
+display("python")
+
 
 
